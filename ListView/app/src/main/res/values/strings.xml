@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <array name="items">
+        <item>Mango</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Pineapple</item>
+    </array>
+</resources>
